@@ -1,0 +1,102 @@
+[
+    {
+    "id": 1,
+    "nombre": "Ceibo",
+    "stock": "7",
+    "tipo": "Árbol",
+    "precio": "3700",
+    "region": "Noroeste",
+    "epocaPlantacion": "Primavera",
+    "rutaImagen": "ceibo.jpg"
+},
+{
+    "id": 2,
+    "nombre": "Yerba Mate",
+    "stock": "10",
+    "tipo": "Planta",
+    "precio": "1950",
+    "region": "Litoral",
+    "epocaPlantacion": "Primavera",
+    "rutaImagen": "yerbaMate.png"
+},
+{
+    "id": 3,
+    "nombre": "Palo Borracho",
+    "stock": "5",
+    "tipo": "Árbol",
+    "precio": "7400",
+    "region": "Noreste",
+    "epocaPlantacion": "Primavera",
+    "rutaImagen": "paloBorracho.jpg"
+},
+{
+    "id": 4,
+    "nombre": "Ñandubay",
+    "stock": "3",
+    "tipo": "Árbol",
+    "precio": "9860",
+    "region": "Centro",
+    "epocaPlantacion": "Otoño",
+    "rutaImagen": "ñandubay.jpeg"
+},
+{
+    "id": 5,
+    "nombre": "Chañar",
+    "stock": "12",
+    "tipo": "Árbol",
+    "precio": "8500",
+    "region": "Cuyo",
+    "epocaPlantacion": "Otoño",
+    "rutaImagen": "chañar.jpg"
+},
+{
+    "id": 6,
+    "nombre": "Caldén",
+    "stock": "5",
+    "tipo": "Árbol",
+    "precio": "4999",
+    "region": "Pampa",
+    "epocaPlantacion": "Otoño",
+    "rutaImagen": "calden.jpg"
+},
+{
+    "id": 7,
+    "nombre": "Cardo Azul",
+    "stock": "4",
+    "tipo": "Planta",
+    "precio": "2500",
+    "region": "Patagonia",
+    "epocaPlantacion": "Primavera",
+    "rutaImagen": "cardoAzul.jpg"
+},
+{
+    "id": 8,
+    "nombre": "Llareta",
+    "stock": "8",
+    "tipo": "Planta",
+    "precio": "3700",
+    "region": "Andina",
+    "epocaPlantacion": "Invierno",
+    "rutaImagen": "llareta.jpeg"
+},
+{
+    "id": 9,
+    "nombre": "Lapacho",
+    "stock": "6",
+    "tipo": "Árbol",
+    "precio": "4600",
+    "region": "Noroeste",
+    "epocaPlantacion": "Primavera",
+    "rutaImagen": "lapacho.jpg"
+},
+{
+    "id": 10,
+    "nombre": "Araucaria",
+    "stock": "15",
+    "tipo": "Árbol",
+    "precio": "2900",
+    "region": "Patagonia",
+    "epocaPlantacion": "Primavera",
+    "rutaImagen": "auracaria.jpg"
+}
+]

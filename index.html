@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=PT+Sans+Narrow&family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Venta de plantas y árboles autóctonos de Argentina</h1>
+    
+    <button id="verOcultarInfo">Ver Carrito</button>
+<div id="seccionVenta">
+    <input placeholder="Nombre" id="input">
+    <input placeholder="Estación a plantar" id="estacion">
+    <button id="botonBuscar">Buscar</button>
+    <div id="productos"></div>
+</div>
+
+<div class="oculta" id="seccionCarrito">
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Unidades</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody id="carrito">
+
+    </tbody>
+    <tfoot>
+        <tr>
+            <td id="total" colspan="3"><strong> Total a pagar:</strong> </td> 
+            <td id="totalPagar">0</td>       
+        </tr>
+        <tr>
+            <td colspan="4">
+                <button id="comprar"> Comprar </button>
+                <button id="eliminarCompra">Eliminar Compra</button>
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script src="./script.js"></script>
+</body>
+</html>
